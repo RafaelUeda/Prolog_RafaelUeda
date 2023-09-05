@@ -1,0 +1,1 @@
+passaProva(rafael):-estudou(rafael).
